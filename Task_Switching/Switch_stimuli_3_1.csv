@@ -1,0 +1,16 @@
+Colour,Number,Repeat,Reward
+red,2,TRUE,High
+blue,9,FALSE,Low
+blue,3,TRUE,High
+red,9,FALSE,High
+blue,1,FALSE,Low
+red,4,FALSE,Low
+red,3,TRUE,High
+blue,8,FALSE,High
+blue,6,TRUE,Low
+red,8,FALSE,Low
+red,7,TRUE,Low
+blue,8,FALSE,High
+red,4,FALSE,High
+red,7,TRUE,Low
+red,8,TRUE,High
